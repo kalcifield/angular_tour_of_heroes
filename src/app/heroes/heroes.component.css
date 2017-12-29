@@ -1,0 +1,11 @@
+.heroes {
+  background-color: darkgray;
+}
+
+li {
+  cursor: pointer;
+}
+
+.selected {
+  background-color: #336699;
+}
